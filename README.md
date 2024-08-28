@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Pedro Brito E-mail: pedrobrito.hc@gmail.com GitHub: github.com/Sumidao<br><br><br>Resumo Profissional Sou um estudante dedicado do 1º ano de Tecnologia da Informação na FIAP SCHOOL, com três anos de experiência prática em desenvolvimento web, banco de dados e computação gráfica. Tenho um histórico comprovado de criação e implementação de soluções inovadoras em projetos autônomos e acadêmicos. Meu objetivo é contribuir de maneira significativa para o sucesso da empresa, aplicando minhas habilidades técnicas e minha abordagem proativa para enfrentar desafios e gerar resultados excepcionais. Estou comprometido em oferecer valor agregado e colaborar efetivamente para alcançar e superar os objetivos organizacionais.<br><br>🏫Educação Ensino Médio em Tecnologia da Informação FIAP SCHOOL Início: 2024 – Conclusão prevista: 2026<br><br>Experiência Profissional Projetos Autônomos e Acadêmicos 2023</p>
+<p align="center">Pedro Brito E-mail: pedrobrito.hc@gmail.com GitHub: github.com/Sumidao<br><br><br>Resumo Profissional: Sou um estudante dedicado do 1º ano de Tecnologia da Informação na FIAP SCHOOL. Meu objetivo é contribuir de maneira significativa para o sucesso da empresa, aplicando minhas habilidades técnicas para enfrentar desafios e gerar resultados excepcionais. Estou comprometido em oferecer valor agregado e colaborar efetivamente para alcançar e superar os objetivos organizacionais.<br><br>🏫Educação Ensino Médio em Tecnologia da Informação FIAP SCHOOL Início: 2024 – Conclusão prevista: 2026<br><br>Experiência Profissional Projetos Autônomos e Acadêmicos 2023</p>
 
 ###
 
